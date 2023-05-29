@@ -2,13 +2,11 @@
 
 Este projeto trata-se do primeiro challenge que foi feito pela #OracleNextEducation . O desafio era que nós alunos da 5º turma de iniciantes pudéssemos fazer um Codificador/Decodificador.
 
-<br>
-
 ## Prévia no GitHub Pages
 
 <br>
 
-coloque o e-mail do projeto no github pages aqui
+https://igorkds.github.io/Projeto-Decodificador-Oracle-ONE/
 
 <br>
 
