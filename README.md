@@ -4,8 +4,6 @@ Este projeto trata-se do primeiro challenge que foi feito pela #OracleNextEducat
 
 ## Prévia no GitHub Pages
 
-<br>
-
 https://igorkds.github.io/Projeto-Decodificador-Oracle-ONE/
 
 # Sobre
