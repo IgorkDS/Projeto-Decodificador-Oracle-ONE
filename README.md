@@ -1,14 +1,12 @@
 # Primeiro challenge ONE + Alura
 
-Este projeto trata-se do primeiro challenge que foi feito pela #OracleNextEducation . O desafio era que nós alunos da 5º turma de iniciantes pudéssemos fazer um Codificador/Decodificador. 
+Este projeto trata-se do primeiro challenge que foi feito pela #OracleNextEducation . O desafio era que nós alunos da 5º turma de iniciantes pudéssemos fazer um Codificador/Decodificador.
 
 ## Prévia no GitHub Pages
 
 <br>
 
 https://igorkds.github.io/Projeto-Decodificador-Oracle-ONE/
-
-<br>
 
 # Sobre
 
